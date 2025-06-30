@@ -2,9 +2,10 @@
 <h3 align="center">🌟 Data Scientist & AI Engineer from Islamabad, Pakistan</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saim-Nadeem" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Saim-Nadeem&style=flat-square&color=brightgreen" alt="Profile views"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saim-Nadeem&layout=compact&theme=radical" alt="Top languages"/>
 </p>
+
 
 ---
 
