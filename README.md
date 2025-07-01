@@ -20,7 +20,7 @@
 
 ## 📂 All My Projects
 
-📁 [GitHub Repositories → Click here](https://github.com/Saim-Nadeem?tab=repositories)
+📁 [GitHub Repositories](https://github.com/Saim-Nadeem?tab=repositories)
 
 ---
 
