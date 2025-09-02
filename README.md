@@ -61,6 +61,7 @@
   <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="40" height="40" title="Tableau" />
   <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40" title="Power BI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Linux" />
+  <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="40" height="40" title="n8n" />
 </p>
 
 ---
